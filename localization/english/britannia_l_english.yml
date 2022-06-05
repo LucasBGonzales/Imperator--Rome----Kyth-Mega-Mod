@@ -1,0 +1,10 @@
+﻿l_english:
+ unite_britannia:0 "Centralize Pritania"
+ unite_britannia_desc:0 "Now that we control all of Pritania, it is time to centralize all the tribes under our rule. The tribal council will be called and all tribes must answer."
+ 
+ unite_britannia.1:0 "Monarchy or Republic?"
+ unite_britannia.1.t:0 "Monarchy or Republic?"
+ unite_britannia.1.desc:0 "The council agrees that we must modernize but there is debate about whether we should become a republic or a monarchy. \n As the choice ultimately lies with the tribzl chief, it is important we know the consequences. \n The people having heard tales from the great republics in foreign lands seek those same liberties here, doing so however would limit the power of the tribal chief and most likely end his dynasty. \n On the other hand the tribal chief could choose to crown himself a king relying on the former chiefs turned autocrats to maintain absolute power."
+ unite_britannia.1.a:0 "Long live the king!"
+ unite_britannia.1.b:0 "The age of despotism has passed, long live the republic!"
+ britannia_reform_tt:0 "This will allow us to become a despotic monarchy or democratic republic."

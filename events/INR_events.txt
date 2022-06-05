@@ -1,0 +1,19 @@
+﻿namespace = INR_Terrain
+
+INR_Terrain.1 = {
+	type = country_event
+	title = INR_Terrain.1.t
+	desc = INR_Terrain.1.d
+	picture = ascetic
+	hidden = yes
+	
+	immediate = {
+		add_country_modifier = {
+				name = INR_Tributary_Terrain
+				duration = -1
+			}
+	}
+	option = {
+		name = "INR_Terrain.1"
+	}
+}

@@ -1,0 +1,3 @@
+﻿loyalty_base = {
+	value = 60 #55
+}

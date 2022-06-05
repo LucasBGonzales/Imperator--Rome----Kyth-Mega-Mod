@@ -1,0 +1,63 @@
+﻿north_african = {
+	color = hsv { 0.15  1  0.7 }
+	
+	primary = light_infantry
+	second = heavy_infantry
+	flank = camels
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	levy_template = levy_egyptian
+	
+	male_names = {
+		Amyrteos Ankhmachis Anemhor Aratos Arganos Charias Djedhor Ezena Horemakhet Isocrates Khabbabash Leonippus Lydiadas Manetho Massiva
+ 		Nakhthoreb Naravas Nefaarud Neferibre Nesisti Nicias Nicodemus Oezalces Oxyntas Pedubast Peneus Perdiccas Philocrates 
+		Philotheos Polyperchon Psherenamun Psherenptah Psammuthes Ptolemy Theocritus Therapon Timoleon Xanthos Xenon Zeteres Zosimus Ahmes
+		Ahmose Alarus Amasus Ameny Bakenrenef Cleomenes Euclid Harsiotef Henut Ibi Khabash Lagus Nectanebo Kheperkare Neferkare Nehi Osorkon Pami
+		Petubastis Teos
+	}
+	female_names = {
+		Agape Agathoclea Amanishabheto Antigone Apame Apollonia Aristomache Artemisia Aspacia Athenais Berenice Charis Cleopatra Cynna
+		Demetria Elpis Eirene Eudocia Eunice Euphemia Eurydice Euthalia Hypatia Nysa Oenanthe Olympia Phila Phile Sostrate Stratonice Thais
+		Theophila Thetima Thessaloniki Thorakis Timo Arsinoe Lysandra Kiya Qelhata
+	}
+	family = {
+		
+		Amin.Amin.Amin.Amin
+		Ayad.Ayad.Ayad.Ayad
+		Amenemhat.Amenemhat.Amenemhat.Amenemhat
+		Baketmut.Baketmut.Baketmut.Baketmut
+		Badru.Badru.Badru.Badru
+		Kader.Kader.Kader.Kader
+		Khalifa.Khalifa.Khalifa.Khalifa
+		Chisisi.Chisisi.Chisisi.Chisisi
+		Mustaf.Mustaf.Mustaf.Mustaf
+		Nabil.Nabil.Nabil.Nabil
+		Kamuzu.Kamuzu.Kamuzu.Kamuzu
+		Nuru.Nuru.Nuru.Nuru
+		Nasr.Nasr.Nasr.Nasr
+		Nizam.Nizam.Nizam.Nizam
+		Abaza.Abaza.Abaza.Abaza
+		Fakhri.Fakhri.Fakhri.Fakhri
+		Khufu.Khufu.Khufu.Khufu
+		Thutmose.Thutmose.Thutmose.Thutmose
+		Meryaten.Meryaten.Meryaten.Meryaten
+		Zaghloul.Zaghloul.Zaghloul.Zaghloul
+	}
+
+	culture = {
+		egyptian = {} #Bohairic
+		upper_egyptian = { } #Sahidic & Thebaic
+		middle_egyptian = { } #Faiyumic
+	}
+	
+	barbarian_names = { GARAMANTES NASSAMONES ASBYSTAE ADYRMACHIDAE GILLIGAMAE AUSCHISAE TROGLODYTAE PSYLLI LAGUATANI MESHWESH }
+	
+	graphical_culture = egyptian_gfx
+	
+	ethnicities = {
+		10 = north_african
+	}
+}

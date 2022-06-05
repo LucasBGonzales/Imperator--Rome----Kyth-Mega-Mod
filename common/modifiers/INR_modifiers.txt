@@ -1,0 +1,7 @@
+﻿INR_Tributary_Terrain = {
+	liburnian_tributary_terrain_combat_bonus = 0.5
+	trireme_tributary_terrain_combat_bonus = 0.3
+	hexere_tributary_terrain_combat_bonus = -0.15
+	octere_tributary_terrain_combat_bonus = -0.3
+	mega_galley_tributary_terrain_combat_bonus = -0.5
+}

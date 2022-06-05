@@ -1,0 +1,37 @@
+﻿country_decisions = {
+	INR_Terrain = {
+
+		potential = {
+			NOT = { has_country_modifier = INR_Tributary_Terrain }
+			#hide event from player for first year as the AI will click it within the first few days
+			OR = {
+				is_ai = yes
+				current_date > 451.1.1
+			}
+		}
+		allow = {
+			NOT = { has_country_modifier = INR_Tributary_Terrain }
+		}
+		ai_allow = {
+			NOT = { has_country_modifier = INR_Tributary_Terrain }
+		}
+		effect = {
+			add_country_modifier = {
+				name = INR_Tributary_Terrain
+				duration = -1
+			}
+			every_country = {
+				limit = {
+					NOT = { has_country_modifier = INR_Tributary_Terrain }
+				}
+				trigger_event = {
+					id = INR_Terrain.1
+				}
+			}
+			
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+}

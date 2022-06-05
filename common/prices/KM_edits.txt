@@ -1,0 +1,37 @@
+﻿raid = {
+	aggressive_expansion = 1
+}
+
+price_found_city = {
+	#political_influence = 25
+	gold = 300
+}
+
+enact_law = {
+	political_influence = 40
+	stability = 10
+}
+
+enact_holy_site = {
+	political_influence = 50
+	gold = 200
+}
+
+change_pantheon = {
+	stability = 5
+	political_influence = 10
+}
+
+fabricate_claim = {
+	gold = 75
+}
+
+change_diplomatic_stance = {
+	political_influence = 15
+}
+
+war_no_cb = {
+	political_influence = 10
+	aggressive_expansion = 2.5
+	war_exhaustion = 2.5
+}

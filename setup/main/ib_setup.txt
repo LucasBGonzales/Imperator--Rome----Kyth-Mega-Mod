@@ -1,0 +1,1423 @@
+provinces = { #Any entry must contain a comment with city name.
+	### BUILDINGS
+	1 = { #Rome
+		forum_building = 1
+		commerce_building = 1
+		citizen_building = 1
+		nobles_building = 1
+		town_hall_building = 0
+		military_building = 2
+		court_building = 0
+	}
+	2 = {
+		military_building = 2
+	}
+	3 = {
+		military_building = 2
+	}
+	4 = {
+		barracks_building = 1
+	}
+	6 = {
+		military_building = 2
+		citizen_building = 1
+	}
+	7 = {
+		military_building = 2
+	}
+	14 = { # Pyrgi
+		barracks_building = 1
+	}
+	25 = { #Norba
+		basic_settlement_infratructure_building = 1
+	}
+	26 = { # Fregellae
+		barracks_building = 1
+	}
+	172={ # Komana
+		temple_building = 1
+	}
+	198 = {
+		library_building = 1
+	}
+	219 = {
+		library_building = 1
+	}
+	253 = { # Daskyldion
+		fortress_building = 1
+	}
+	261 = {
+		fortress_building = 1
+	}
+	278 = { #Pergamon
+		fortress_building = 1
+		academy_building = 1
+		library_building = 1
+		citizen_building = 1
+	}
+	292 = { #Sardis
+		fortress_building = 1
+		library_building = 3
+		nobles_building = 1
+	}
+	331 = { # Salamis Kyprias
+		fortress_building = 1
+	}
+	364 = { # Philippoi
+		fortress_building = 1
+		foundry_building = 1
+		military_building = 1
+	}
+	399 = {
+		library_building = 1
+	}
+	407 = {
+		library_building = 1
+	}
+	416 = {
+		library_building = 1
+	}
+	465 = {
+		library_building = 1
+	}
+	750 = {
+		library_building = 2
+	}
+	790 = {
+		library_building = 3
+		nobles_building = 1
+		citizen_building = 1
+
+	}
+	795={
+
+	}
+	818 = {
+		fortress_building = 1
+	}
+	853 = {
+		fortress_building = 1
+	}
+	943 = { barracks_building = 1 }
+	1968={
+
+	}
+	1788 = { # Nora
+		fortress_building = 1
+	}
+	1796 = {
+		library_building = 1
+	}
+	1818={ # Ouenasa
+		temple_building = 1
+	}
+	1854 = { # Melitia
+		fortress_building = 1
+	}
+	1881 = {
+		library_building = 1
+	}
+	1882 = {
+		library_building = 1
+	}
+	1893 = {
+		library_building = 1
+	}
+	1894={ # Olbe
+		temple_building = 1
+	}
+	1932 = {
+		library_building = 1
+	}
+	1934 = {
+		library_building = 2
+	}
+	1941 = {
+		fortress_building = 1
+	}
+	1954 ={
+		library_building = 1
+	}
+	4440 = {
+		aqueduct_building = 1
+		citizen_building = 2
+		academy_building = 1
+	}
+	4475 = { #Ujjayini
+		library_building = 2
+		temple_building = 2
+	}
+	6678 = { #Bactra
+		commerce_building = 1
+		aqueduct_building = 1
+		nobles_building = 1
+		citizen_building = 1
+		library_building = 2
+		academy_building = 1
+	}
+	
+	6688 = { #Tarmita
+		aqueduct_building = 1
+		freemen_building = 2
+		military_building = 1
+	}
+	
+	6694 = {	 #Citadel of Ay Khanum
+		aqueduct_building = 1
+		commerce_building = 1
+		library_building = 2
+	}
+	
+	6611 = {	 #Indo Greek Capital
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	
+	6615 = { # Alexandreia Opiane
+	}
+	6821 = {
+
+	}
+	7202 = {
+		fortress_building = 1
+		commerce_building = 1
+	}
+	7426 = { #Dhar
+		library_building = 2
+	}
+	7802 = { # Tanagra
+		fortress_building = 1
+	}
+	16 = {
+		military_building = 1
+		fortress_building = 1
+		freemen_building = 1
+	} #Veii
+	
+	407 = { #Chalchis
+		fortress_building = 2
+
+	}
+	416 = { #Athens
+		fortress_building = 1
+
+		academy_building = 2
+		library_building = 1
+		citizen_building = 1
+		town_hall_building = 0
+	}
+	835 = { #Hatra
+		fortress_building = 1
+	}
+	
+	743 = { #Tyre
+		fortress_building = 1
+	}
+	
+	266 = { #Rhodos
+		fortress_building = 1
+		library_building = 1
+
+	}
+	
+	#Peter beyond this point:
+	
+	8 = { #telesia
+		fortress_building = 1 
+	}
+	
+	12 = { #velia
+		fortress_building = 1 
+	}
+	32 = { #bovianum
+		citizen_building = 1
+	}	
+	33 = { #bovinium
+		fortress_building = 1 
+	}
+	
+	37 = { #Luceria, the key of Puglia
+		fortress_building = 1
+	}
+	
+	48 = { #terventum
+		fortress_building = 1 
+	}
+	
+	52 = { #thurii
+		fortress_building = 1 
+	}
+	
+	54 = { #heraclea
+		fortress_building = 1 
+	}
+	
+	55 = { #metapontum
+		fortress_building = 1 
+
+	}
+	
+	56 = { #tarentum
+		fortress_building = 1 
+	}
+	
+	66 = { #barium
+		fortress_building = 1 
+	}
+	
+	72 = { #rhegium
+		fortress_building = 1 
+	}
+	
+	73 = { #locri
+		fortress_building = 1 
+	}
+	
+	75 = { #hipponium
+		fortress_building = 1 
+	}
+	
+	76 = { #tempsa
+		fortress_building = 1 
+	}
+	
+	78 = { #croton
+		fortress_building = 1 
+	}
+	
+	80 = { #messana
+		fortress_building = 1 
+	}
+	
+	84 = { #syracusae
+		fortress_building = 1 
+		academy_building = 1
+		slave_building = 1
+	}
+	
+	86 = { #acragas
+		fortress_building = 1 
+	}
+	
+	94 = { #lilybaeum
+		fortress_building = 1
+		library_building = 1
+	}
+	
+	96 = { #panormus
+		fortress_building = 1 
+	}
+	
+	114 = { #vetulonia
+		fortress_building = 1 
+	}
+	
+	124 = { #cortona
+		fortress_building = 1 
+	}
+	
+	135 = { #valvata
+		fortress_building = 1 
+	}
+	
+	142 = { #ravenna
+		fortress_building = 1 
+	}
+	
+	146 = { # Bononia
+		aqueduct_building = 1
+	}
+
+	149 = { #mutina
+		fortress_building = 1 
+	}
+
+	412 = { # Lychnidos
+		fortress_building = 1
+	}
+	
+	681 = { #emporiae
+		fortress_building = 1 
+	}
+	
+	702 = { #quseima
+		fortress_building = 1 
+	}
+	
+	810 = { #zeugma
+		fortress_building = 1 
+	}
+	
+	933 = { #apamea
+		fortress_building = 1 
+	}
+	
+	1000 = { #emporiae
+		fortress_building = 1 
+	}
+	
+	1031 = { #hemeroskopeion
+		fortress_building = 1 
+	}
+	
+	1341 = { #tartessos
+		fortress_building = 1 
+	}
+	
+	1348 = { #carteia
+		fortress_building = 1 
+	}
+	
+	1471 = { #melita
+		fortress_building = 1 
+	}
+	
+	1718 = { #aeclanum
+		fortress_building = 1 
+	}
+
+	1911 = { #Sillyon
+		fortress_building = 1 
+	}
+	
+	2260 = { #agatha
+		fortress_building = 1 
+	}
+	
+	2284 = { #augustonometum
+		fortress_building = 1 
+	}
+	
+	2325 = { #massalia
+		fortress_building = 1 
+		citizen_building = 1
+	}
+	
+	2347 = { #avaricum
+		fortress_building = 1 
+	}
+	
+	2438 = { #bibracte
+		fortress_building = 1 
+	}
+	
+	2440 = { #alesia
+		fortress_building = 1 
+	}
+	
+	3245 = { #neapolis
+		fortress_building = 1 
+	}
+	
+	3256 = { #carthago
+		commerce_building = 2
+		military_harbor_building = 1
+		aqueduct_building = 1
+		library_building = 1
+		nobles_building = 2
+		citizen_building = 1
+		town_hall_building = 0
+	}
+	
+	3264 = { #septima
+		fortress_building = 1 
+	}
+	
+	3295 = { #meninge
+		fortress_building = 1 
+	}
+	
+	3303 = { #oea
+		fortress_building = 1 
+	}
+	
+	3549 = { #genua
+		fortress_building = 1 
+	}
+	
+	3584 = { #verona
+		fortress_building = 1 
+	}
+	
+	3572 = { #ticinum
+		fortress_building = 1 
+	}
+	
+	3592 = { #feraria
+		fortress_building = 1 
+	}
+	
+	4787 = {
+		barracks_building = 1
+	}
+	
+	4991 = { #49
+		fortress_building = 1 
+	}
+	
+	6703 = { #cyropolis
+		fortress_building = 1 
+	}
+	
+	6766 = { #yamchun
+		fortress_building = 1 
+	}
+	
+	7506 = { #aksum
+		fortress_building = 1
+	}
+	
+	536 = { #Babylon (Egypt)
+		fortress_building = 1
+	}
+	
+
+	#Buildings
+	103 = { # Plestia
+		aqueduct_building = 1
+		slave_building = 1
+	}
+	126 = {
+		library_building = 1
+	}
+	188 = { # Pessinous
+		library_building = 2
+	}
+	189 = { # Gordion
+		fortress_building = 1
+	}
+	200 = {
+		fortress_building = 1
+	}
+	206 = { # Aigialos
+		barracks_building = 1
+	}
+	207 = { # Heraklea Pontica
+	citizen_building = 1
+	theathre_building = 1
+	}
+	221 = { # Artiknos
+		barracks_building = 1
+	}
+	225 = { # Lagania
+		barracks_building = 1	
+	}
+	257 = { #Ilion
+		citizen_building = 1
+		library_building = 1
+	}
+	266 = { #Rhodos
+
+		commerce_building = 1
+	}
+	276 = { #Apollonia Lydia
+		basic_settlement_infratructure_building = 1
+	}
+	278 = { #Pergamon
+		aqueduct_building = 1
+		academy_building = 1
+		library_building = 1
+
+	}
+	302 = { # Kadoi
+		barracks_building = 1
+	}
+	6431 = { #Marion
+
+	}
+	333 = { #Soloi
+
+	}
+	336 = { #Tamassos
+
+	}
+	338 = { #Amathous
+
+	}
+	347 = {
+		town_hall_building = 1
+		slave_building = 1
+	}
+	350 = { #Lysimachea
+		military_building = 1
+		fortress_building = 1
+		town_hall_building = 1
+		aqueduct_building = 1
+		freemen_building = 2
+	}
+	353 = { #Kypsela
+		latifundia_building = 1	
+	}
+	365 = { # Amphipolis
+		fortress_building = 1
+		commerce_building = 1
+		town_hall_building = 0
+		citizen_building = 1
+	}
+	373 = { #Thesalonica
+		court_building = 0
+		town_hall_building = 1
+		academy_building = 1
+		citizen_building = 1	
+	}
+	379 = { #Pella
+		court_building = 0
+		commerce_building = 1
+		military_building = 2
+		town_hall_building = 1	
+		nobles_building = 1
+		citizen_building = 1
+	}
+	380 = { # Dion
+		temple_building = 1
+		military_building = 1
+	}
+	383 = { # Europos
+		barracks_building = 1
+	}
+	389 = { #Larissa
+		citizen_building = 1
+		freemen_building = 1
+		military_building = 1
+		aqueduct_building = 1
+		town_hall_building = 1	
+	}
+	390 = { # Pherai
+		town_hall_building = 1
+		population_building = 1
+	}
+	394 = { #Pharsalos
+		citizen_building = 1
+		academy_building = 1
+		library_building = 1
+		town_hall_building = 1
+		court_building = 0
+	}
+	395 = {
+	}
+	1970 = {
+	}
+	399 = { # Lamia
+		fortress_building = 1
+	}
+	7898 = { #Rhamnous
+		slave_mine_building = 1
+	}
+	416 = { #Athens
+		town_hall_building = 0
+		academy_building = 2
+	}
+	417 =  {
+		academy_building = 1
+	}
+	418 = { #Korinth
+		fortress_building = 2 #Acrocorinth
+		town_hall_building = 1
+	}
+	419 = {
+		barracks_building = 1
+	}
+	422 = {
+		fortress_building = 1
+	}
+	424 = { #Delphi
+		temple_building = 2
+	}
+	425 = { #Dodona
+		barracks_building = 1
+	}
+	427 = { #Sparta
+		military_building = 2
+		freemen_building = 1
+		foundry_building = 1
+		fortress_building = 1
+	}
+	428 = { # Methone
+	}
+	431 = {
+		fortress_building = 1
+		military_building = 1
+	}
+	436 = { #Megalopolis
+		fortress_building = 1
+	}
+	440 = { #Argos
+		fortress_building = 1
+	}
+	441 = {
+	}
+	442 = { # Aigina
+		barracks_building = 1
+	}
+	459 = { # Leukas
+		barracks_building = 1
+	}
+	464 = { # Nikopolis
+		barracks_building = 1
+	}
+	476 = { #Passaron
+		military_building = 2
+		freemen_building = 2
+		foundry_building = 1
+	}
+	480 = { #Mesembria
+		town_hall_building = 2
+	}
+	500 = { #Memphis
+		aqueduct_building = 1
+		library_building = 2
+		citizen_building = 2
+		slave_building = 1
+		workshop_building = 1
+	}
+	501 = { #Heliopolis
+		library_building = 2
+		citizen_building = 1
+	}
+	509 = { #Pelusium
+		fortress_building = 1	
+	}
+	536 = {
+		freemen_building = 1
+		military_building = 1
+	}
+	539 = { #Krokodilopolis
+		library_building = 1
+	}
+	540 = { #Dionysias
+		barracks_building = 1
+	}
+	541 = { #Karanis
+		barracks_building = 1
+	}
+	543 = {
+		aqueduct_building = 1
+	}
+	569 = { #Diospolis Magna
+		library_building = 1
+	}
+	584 = {
+		fortress_building = 1
+	}
+	593 = {
+		fortress_building = 1
+	}
+	614 = { # Bagada
+		barracks_building = 1
+	}
+	641 = { #Meroe
+		aqueduct_building = 1
+		citizen_building = 1
+		freemen_building = 1	
+		military_building = 1
+	}
+	659 = { #Gaza
+		fortress_building = 1
+		commerce_building = 1
+	}
+	660 = {	#Ascalon
+		fortress_building = 1
+		commerce_building = 1	
+	}
+	722 = {
+		fortress_building = 1
+	}
+	741 = { #Iyyon
+	}
+	743 = { #Tyrus
+		workshop_building = 2
+	}
+	747 = { #Sidon
+		commerce_building = 1 	
+		citizen_building = 1
+		port_building = 3
+	}
+	749 = { #Brochoi
+	}
+	750 = {
+		commerce_building = 1	
+	}
+	754 = {
+		aqueduct_building = 1
+		citizen_building = 1
+		shrine_building = 1
+	}
+	766 = { #Byblos
+		commerce_building = 1
+		citizen_building = 1
+		port_building = 3
+	}
+	784 = { #Sigon
+		logging_camps = 1
+	}
+	779 = { #Arados
+		commerce_building = 1 
+	}
+	829 = { # Doura
+		fortress_building = 1
+	}
+	830 = { # Nisibis
+		library_building = 1
+	}
+	843 = { # Cholmaron
+		fortress_building = 1	
+	}
+	846 = {
+		fortress_building = 1
+	}
+	862 = { # Nineveh
+		aqueduct_building = 1
+		library_building = 1
+		freemen_building = 2
+		military_building = 1
+	}
+	871 = { # Mard
+		fortress_building = 1	
+	}
+	874 = {
+		fortress_building = 1
+	}
+	880 = { # Artela
+		aqueduct_building = 1
+		citizen_building = 1
+		slave_building = 1
+	}
+	883 = { # Ashur
+		library_building = 1
+	}
+	893 = { # Samarra
+		barracks_building = 1
+	}
+	896 = { # Artemita
+		barracks_building = 1	
+	}
+	911 = { #Seleucia
+		aqueduct_building = 1
+		library_building = 3
+		academy_building = 1
+		citizen_building = 2
+		nobles_building = 1
+		commerce_building = 1
+	}
+	912 = {
+		library_building = 1
+		slave_building = 1
+		workshop_building = 1
+	}
+	915 = { # Cutha
+		barracks_building = 1
+	}
+	919 = {
+		citizen_building = 1
+		slave_building = 1
+		workshop_building = 1
+	}
+	972 = { 
+		barracks_building = 1 
+	}
+	933 = { # Apameia
+		library_building = 1
+	}
+	937 = { #Uruk
+		barracks_building = 1	
+	}
+	940 = { # Alexandria, Meshan
+		library_building = 1
+		town_hall_building = 1
+		commerce_building = 1
+		citizen_building = 1
+	}
+	941 = { # Forat
+		barracks_building = 1
+	}
+	942 = { 
+		barracks_building = 1 
+	}
+	981 = { # Hulwan
+		aqueduct_building = 1
+		citizen_building = 1
+		academy_building = 1
+	}
+	1036 = { #Mastia/Carthago Nova
+		town_hall_building = 1
+		slave_building = 1
+		workshop_building = 1
+	}
+	1209 = {
+	}
+	1344 = {
+	}
+	1532 = {
+		fortress_building = 1
+	}
+	1536 = {
+		fortress_building = 1
+	}
+	1542 = { # Arxata
+		barracks_building = 1
+	}
+	1550 = {
+		basic_settlement_infratructure_building = 1
+	}
+	1570 = { # Armaouira (Capital of Armenia)
+		aqueduct_building = 1
+		citizen_building = 2
+		town_hall_building = 1
+		commerce_building = 2
+	}
+	1571 = { # Artaxata
+		aqueduct_building = 1
+		slave_building = 2
+		town_hall_building = 1
+		workshop_building = 1
+		commerce_building = 1
+	}
+	1572 = { # Doubios
+		town_hall_building = 2
+		slave_building = 1
+		freemen_building = 1
+	}
+	1576 = { # Kainepolis Syracene
+		town_hall_building = 1
+		population_building = 1
+	}
+	1577 = { # Motene
+		town_hall_building = 1
+		commerce_building = 1
+	}
+	1596 = {
+		barracks_building = 1
+	}
+	1594 = { #Kangavar
+		barracks_building = 1
+	}
+	1595 = { # Ecbatana/Ekvatana
+		aqueduct_building = 1
+		nobles_building = 1
+		freemen_building = 1
+		academy_building = 1
+		fortress_building = 1
+	}
+	1579 = {
+		basic_settlement_infratructure_building = 1
+	}
+	1601 = {	
+		barracks_building = 1
+	}
+	1669 = { # Chahuk
+		fortress_building = 1
+	}
+	1698 = { # Sinara
+		fortress_building = 1
+	}
+	1715 = {
+		library_building = 1
+	}
+	1770 = { # Satala
+	}
+	1819 = { # Amaseia
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	1880 = { # Mopsouhestia
+		barracks_building = 1
+	}
+	1897 = { # Gelenderis
+		barracks_building = 1
+	}
+	1936 = { # Kelainai
+		fortress_building = 1
+		shrine_building = 1
+	}
+	1945 = { # Kolossai
+		library_building = 1
+	}
+	1947 = { # Tripolis ad Maeandrum
+		library_building = 1
+	}
+	2012 = {
+	}
+	3163 = {
+		aqueduct_building = 1
+	}
+	3389 = {
+		citizen_building = 1
+	}
+	3444 = {
+		aqueduct_building = 1
+	}
+	3481 = { #Sulcis
+		aqueduct_building = 1
+		citizen_building = 1
+		freemen_building = 1
+		library_building = 2
+		town_hall_building = 1
+	}
+	3483 = { #Nora
+		barracks_building = 1
+	}
+	3504 = { #Olbia
+		library_building = 1
+	}
+	3515 = { # Alalia
+		library_building = 3
+	}
+	3547 = { # Savo
+		barracks_building = 1
+	}
+	3551 = { # Augusta Taurinorum
+		aqueduct_building = 1
+	}
+	3592 = { # Ferrara
+		aqueduct_building = 1
+	}
+	3810 = { # Embadina
+		aqueduct_building = 1
+	}
+	4300 = { # Pushkalavati
+		aqueduct_building = 1
+		freemen_building = 1
+		slave_building = 1
+	}
+	4325 = {
+		basic_settlement_infratructure_building = 1
+	}
+	4353 = {
+		library_building = 1
+	}
+	4355 = {
+		aqueduct_building = 1
+		library_building = 1
+		citizen_building = 1
+	}
+	4390 = { # Jalandhara
+		barracks_building = 1
+	}
+	4411 = {
+		library_building = 1
+	}
+	4419 = { # Haridwar
+		barracks_building = 1
+	}
+	4424 = {
+		library_building = 1
+	}
+	4425 = {
+		library_building = 2
+	}
+	4429 = { #Varanasi
+		library_building = 2
+		temple_building = 1
+		citizen_building = 2
+		shrine_building = 1
+	}
+	4437 = {
+		library_building = 2
+	}
+	4473 = {
+		aqueduct_building = 1
+		freemen_building = 1
+	}
+	4479 = { # Dasapura
+		barracks_building = 1
+	}
+	4496 = { # Machhindrapur
+		barracks_building = 1
+	}
+	4498 = { # Dhammanahadika
+		barracks_building = 1
+	}
+	4976 = {
+		barracks_building = 1
+	}
+	4781 = { # Vehshapur
+		aqueduct_building = 1
+		library_building = 2
+		citizen_building = 1
+	}
+	4791 = { # Hormirzad
+		aqueduct_building = 1
+		freemen_building = 1
+		citizen_building = 1
+	}
+	4799 = { #Persepolis
+		library_building = 3
+		nobles_building = 1
+		citizen_building = 1
+		treasure_slots = { treasures = { 189 190 } }
+	}
+	4973 = { # Aspadana
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	4951 = {
+		library_building=1
+		fortress_building=1
+		treasure_slots = { treasures = { 188 228 } }
+	}
+	4959 = { #Alexandria Carmana
+		aqueduct_building = 2
+		fortress_building = 1
+		citizen_building = 1
+	}
+	4965 = { # Makash
+		barracks_building = 1
+	}
+	4973 = {
+		library_building = 1
+	}
+	4985 = { # Kyropolis
+		aqueduct_building = 1
+		citizen_building = 1
+		shrine_building = 1
+		library_building = 2
+	}
+	4991 = { # Rhagai
+		aqueduct_building = 1
+		library_building = 1
+		citizen_building = 1
+	}
+		4983 = {
+		barracks_building = 1
+	}
+	4993 = {
+		library_building = 1
+		citizen_building = 1
+	}
+	4994 = { # Semnon
+		barracks_building = 1
+	}
+	5391 = { # Kalana
+		basic_settlement_infratructure_building = 1
+	}
+	5618 = { # Lhasa
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	6399 = { # Pydna
+		fortress_building = 1
+		commerce_building = 1
+	}
+	6420 = { # Eulepa
+		barracks_building = 1
+	}
+	6560 = { #Zranka
+		barracks_building = 1	
+	}
+	6612 = {
+		aqueduct_building = 1
+		slave_building = 2
+		workshop_building = 1
+	}
+	6637 = {
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	6648 = { # Drapsaca
+		fortress_building = 1	
+	}
+	6674 = { # Emshi
+		barracks_building = 1
+	}
+	6682 = { # Marakanda
+		aqueduct_building = 1
+		citizen_building = 1
+		freemen_building = 1
+	}
+	6686 = { # Alexandreia Tarmita
+	}
+	6688 = { # Alexandria Oxiana
+	}
+	6697 = { # Kafir
+		aqueduct_building = 1
+		freemen_building = 1
+	}
+	6719 = { # Baisun
+		fortress_building = 1
+	}
+	6737 = { # Andijan
+		aqueduct_building = 1
+		citizen_building = 1
+		freemen_building = 1
+	}
+	6744 = { # Kashgar
+		aqueduct_building = 1
+		freemen_building = 1
+		slave_building = 1
+	}
+	6840 = { # Maltecoria 
+		aqueduct_building = 1
+	}
+	6857 = {
+		aqueduct_building = 1
+		tavern_building = 1
+		freemen_building = 1
+	}
+	6862 = { # Nousaripa
+		barracks_building = 1	
+	}
+	6865 = { # Paunar
+		barracks_building = 1	
+	}
+	6932 = { # Koroula
+		barracks_building = 1
+	}
+	6935 = { # Chaberis
+		barracks_building = 1
+	}
+	6954 = { # Qom
+		aqueduct_building = 1
+		library_building = 1
+	}
+	7030 = { # Mahisha
+		aqueduct_building = 1
+		freemen_building = 1
+	}
+	7040 = { # Mosali
+		aqueduct_building = 1
+		citizen_building = 2
+	}
+	7057 = { # Nagarjunikonda
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7074 = { # Pattithana
+		aqueduct_building = 1
+		slave_building = 1
+		citizen_building = 1
+	}
+	7076 = { # Bhaddavati
+		aqueduct_building = 1
+		slave_building = 1
+	}
+	7082 = { # Samapa
+		aqueduct_building = 1
+		citizen_building = 1	
+	}
+	7122 = { # Jagdalpur
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7159 = { # Devagiri
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7184 = { # Kuche
+		aqueduct_building = 1
+		freemen_building = 1
+	}
+	7199 = { # Gerrha (Capital of Gerrha)
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7300 = { # Ayanakagraha
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7303 = { # Airakina
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7314 = {
+		aqueduct_building = 1
+		library_building= 3
+		nobles_building = 1
+		citizen_building = 1
+	}
+	7327 = { # Karnasuvarna
+		aqueduct_building = 1
+		citizen_building = 1
+		slave_building = 1
+	}
+	7345 = {
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7372 = { # Kusavati
+		barracks_building = 1
+	}
+	7378 = { # Lakhimpur
+		basic_settlement_infratructure_building = 1
+	}
+	7385 = {
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7403 = { # Govishana
+		basic_settlement_infratructure_building = 1
+	}
+	7405 = { # Pilibhit
+		basic_settlement_infratructure_building = 1
+	}
+	7426 = {
+		aqueduct_building = 1
+		nobles_building = 1
+	}
+	7657 = {
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+
+	7845 = { # Tordan
+		fortress_building = 1
+	}
+
+	7968 = { # Kyinda
+		fortress_building = 1
+	}
+	8003 = { # Sikyon
+		fortress_building = 1
+	}
+	
+	#Special Places:
+	
+	#Alexandrias (ie greek Settlements founded by Alexander, small civilization boost.
+	516 = { #By the Nile
+		citizen_building = 1
+		commerce_building = 2
+		library_building = 3
+		court_building = 0
+	}
+	940 = { #In Mesopotamia
+
+	}
+	3672 = {
+	}
+	4131 = {
+	}
+	4316 = { # Boukephalia
+	}
+	4322 = { # Alexandreia Nikaia
+	}
+	4371 = { #By the Indus
+	}
+	4372 = { # Alexandria Sogdiana
+	}
+	5550 = { # Alexandrou Parembole
+	}
+	6620 = { # Alexandria Rhambacia
+	}
+	6518 = { # Alexandreia Prophtasia
+		fortress_building = 1
+	}
+	6552 = { #Sacastene
+	}
+	6558 = { #Alexandreia Areiois
+		fortress_building = 1
+	}
+	6541 = { #Arachosia
+		aqueduct_building = 1
+	}
+	6668 = { #In Persia
+	}
+	6704 = { #Eschate
+		aqueduct_building = 1
+		library_building = 2
+		citizen_building = 1
+		shrine_building = 1
+		tavern_building = 1
+	}
+	6878 = {
+		aqueduct_building = 1
+	}
+	6895 = {
+		aqueduct_building = 2 
+	}
+	6978 = {
+	}
+	7015 = {
+		aqueduct_building = 1
+		slave_building = 1
+	}
+	7019 = {
+		aqueduct_building = 1
+	}
+	7046 = {
+		aqueduct_building = 1
+		citizen_building = 1
+	}
+	7120 = {
+		aqueduct_building = 1
+	}
+	7135 = {
+		aqueduct_building = 1
+	}
+	7138 = {
+		aqueduct_building = 1
+		freemen_building = 1
+		citizen_building = 1
+	}
+	7307 = {
+		aqueduct_building = 1
+		slave_building = 1
+	}
+	7484 = { # Bhawaniganj
+		barracks_building = 1
+	}
+	7485 = { # Alexandria Hypasis
+	}
+	7519 = {
+		aqueduct_building = 1
+	}
+	8003 = { # Sikyon
+		fortress_building = 1
+	}
+	8011 = { #Korlon
+	}
+	#Gardens of Babylon
+	918 = {
+		#modifier = { modifier = gardens_of_babylon always = yes }
+		aqueduct_building = 1
+		library_building = 3
+		nobles_building = 1
+		citizen_building = 2
+	}
+	
+	#Pyramids of Giza
+	500 = {
+		#modifier = { modifier = pyramid_complex always = yes }
+	}
+	
+	
+	#Anu Temple of Uruk
+	937 = {
+	}
+	#
+	290 = { #Ephesos
+		temple_building = 2
+		citizen_building = 1
+		#modifier = { modifier = artemis_temple always = yes }
+	}
+	1981 = { #Halicarnassus
+		temple_building = 2
+		#modifier = { modifier = mausoleum_of_mausolos always = yes }
+	}
+	
+	#Bosporus
+	1453 = {
+	}
+	240 = {
+	}
+	241 = {
+	}
+	
+	#Hellespont
+	256 = {
+	}
+	349 = {
+	}
+	261 = {
+	}
+	257 = {
+	}
+	
+	#Pillars of Hercules
+	1347 = {
+	}
+	3061 = {
+	}
+	
+	439 = { #Olympia
+		#modifier = { modifier = zeus_temple_at_olympia always = yes }
+	}
+}

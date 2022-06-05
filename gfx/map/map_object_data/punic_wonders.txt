@@ -1,0 +1,29 @@
+﻿object={
+	name="wonder_carthage_harbour"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="wonder_carthage_harbour_entity"
+	count=0
+}
+object={
+	name="wonder_numidian_tomb_01"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="wonder_numidian_tomb_01_entity"
+	count=1
+	transform="1873.911255 0.000000 1833.462891 0.000000 -0.123918 0.000000 0.992293 1.000000 1.000000 1.000000
+"}
+object={
+	name="wonder_numidian_tomb_02"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="wonder_numidian_tomb_02_entity"
+	count=1
+	transform="1017.443542 0.000000 1897.713989 0.000000 -0.202066 0.000000 -0.979372 1.000000 1.000000 1.000000
+"}
