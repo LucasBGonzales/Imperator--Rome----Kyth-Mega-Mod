@@ -1127,7 +1127,7 @@
 	culture="sumpa"
 	province_rank="settlement"
 	religion="bon_religion"
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="woad"
 	freemen=
 	{
