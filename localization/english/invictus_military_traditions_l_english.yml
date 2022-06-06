@@ -432,6 +432,7 @@
  tradition_unlock_requirement_aryan:0 "$tradition_unlock_requirement_base$\n   @trigger_no! [GetCultureGroup('aryan').GetName|Y] Culture Group"
  tradition_unlock_requirement_tibeto_pracyan:0 "$tradition_unlock_requirement_base$\n   @trigger_no! [GetCultureGroup('pracyan').GetName|Y] Culture Group\n   @trigger_no! [GetCultureGroup('tibetan').GetName|Y] Culture Group"
  tradition_unlock_requirement_steppe:0 "$tradition_unlock_requirement_base$\n   @trigger_no! [GetCultureGroup('bactrian').GetName|Y] Culture Group\n   @trigger_no! [GetCultureGroup('scythia').GetName|Y] Culture Group\n   @trigger_no! [GetCultureGroup('caucasian').GetName|Y] Culture Group\n @trigger_no! [GetCultureGroup('scythian_east').GetName|Y] Culture Group"
+ tradition_unlock_requirement_tibetan:0 "$tradition_unlock_requirement_base$\n   @trigger_no! [GetCultureGroup('tibetan').GetName|Y] Culture Group"
  tradition_unlock_requirement_dravidian:0 "$tradition_unlock_requirement_base$\n   @trigger_no! [GetCultureGroup('indian').GetName|Y] Culture Group"
  tradition_unlock_requirement_north_african:0 "$tradition_unlock_requirement_base$\n   @trigger_no! [GetCultureGroup('fezzani').GetName|Y] Culture Group\n   @trigger_no! [GetCultureGroup('numidian').GetName|Y] Culture Group"
 

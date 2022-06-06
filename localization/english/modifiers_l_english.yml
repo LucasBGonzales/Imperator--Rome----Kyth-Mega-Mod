@@ -435,6 +435,7 @@
  trireme_cost:0 "Trireme Cost"
  light_infantry_morale:0 "Light Infantry Morale"
  light_infantry_mountain_combat_bonus:0 "Light Infantry Mountain Combat Bonus"
+ light_cavalry_mountain_combat_bonus:0 "Light Cavalry Mountain Combat Bonus"
  archers_mountain_combat_bonus:0 "Archers Mountain Combat Bonus"
  heavy_infantry_mountain_combat_bonus:0 "Heavy Infantry Mountain Combat Bonus"
  light_infantry_discipline:0 "Light Infantry Discipline"

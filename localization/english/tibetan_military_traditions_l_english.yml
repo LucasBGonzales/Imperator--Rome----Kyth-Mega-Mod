@@ -1,0 +1,93 @@
+﻿l_english:
+ #####################
+ # Tibetan #
+ #####################
+ tibetan_noble_philosophy:0 "Tibetan Traditions"
+ tibetan_noble_philosophy_desc:2 "Tibet is an unforgiving land of rugged mountains and rough hillsides.  It’s people will use all of it’s advantages to defend their homes.  Making use of the their defenseable terrain and fortress the people of Tibet will readily sortie forth to confront any powers from the lowlands foolish enough to fight them on their own turf.\n\n#G Tradition Focuses#!\nStrong #Y Light Infantry#!\nGood #Y Heavy Infantry#!, #Y Fortresses#!"
+ 
+ #Fortress
+ tibetan_fortress_path_1:0 "Roof of the World"
+ tibetan_fortress_path_1_desc:0 "Sometimes refered to as the Roof of the World, the altitude of the Tibetan plateau is unforgiving to most.  But we not only survive in this land, but thrive in it."
+ tibetan_fortress_path_2:0 "Fortress Passes"
+ tibetan_fortress_path_2_desc:0 "The natural terrian coupled with man made defenses should be quite formidible indeed."
+ tibetan_fortress_path_3:0 "Mountain Communities"
+ tibetan_fortress_path_3_desc:0 "Each community should be self-suficient and be able to stand by itself if attacked."
+ 
+ #Attrition
+ tibetan_attrition_path_1:0 "Experienced Guides"
+ tibetan_attrition_path_1_desc:0 "Our people know the lay of the plateau by hearts.  By choosing the most experienced among them as guides we should be able to surprise even the most vigilant foe."
+ tibetan_attrition_path_2:0 "War of Attrition"
+ tibetan_attrition_path_2_desc:0 "The lowlanders are not prepared for the plateau.  Why fight them when we can retreat to our forts and let the nature take its toll."
+ 
+ #Nobles
+ tibetan_noble_path_1:0 "Noble Leaders"
+ tibetan_noble_path_1_desc:0 "Let those of high birth prove their worth, may they be always at the front."
+ tibetan_noble_path_2:0 "Imported Weapons"
+ tibetan_noble_path_2_desc:0 "We should take advantage of the our proximity to trade routes to always have the finest weapons."
+ tibetan_noble_path_3:0 "Martial Duties"
+ tibetan_noble_path_3_desc:0 "Martial duties of the elite shall keep a good reservoir of elite soldiers for us."
+ 
+ #Guerrilla
+ tibetan_guerrilla_path_1:0 "Communal Bonds"
+ tibetan_guerrilla_path_1_desc:0 "Life on the Tibetan Platuea is harsh.  Our people must rely on each other to survive day by day, why should it be any different on the field of Battle."
+ tibetan_guerrilla_path_2:0 "Fight From Ambush"
+ tibetan_guerrilla_path_2_desc:0 "We may not have the numbers, equipment, or elephants of the lowlands; but nor do we have the open fields."
+ tibetan_guerrilla_path_3:0 "Mountain Discipline"
+ tibetan_guerrilla_path_3_desc:0 "Survial on the plateau requires self discipline and control.  Our troops will be quite capable of waiting for the right moment ot strike."
+ tibetan_guerrilla_path_4:0 "Mountain Fury"
+ tibetan_guerrilla_path_4_desc:0 "None can match us in our mountain homes, let them try if they dare."
+ 
+ #Indian Influence
+ tibetan_noble_path_4:0 "Stalwart Defense"
+ tibetan_noble_path_4_desc:0 ""
+ 
+ ############
+ # Silk Road # 
+ ############
+ silk_road_philosophy:0 "Silk Road Traditions"
+ silk_road_philosophy_desc:2 "Silk Road Traditions encompass the blending of knowledge and fighting styles along the ancient trade routes of the east."
+ 
+ #Edge of the World
+ edge_of_world_path_1:0 "Edge of the World"
+ edge_of_world_path_1_desc:0 "Life along the borders of the steppe is full of those making there way along the fringes of society.  We will have no problem finding replacements for our armies."
+ 
+ #Steppe Raiders
+ steppe_raiders_path_1:0 "Steppe Riders"
+ steppe_raiders_path_1_desc:0 "The warriors of the steppe are accustomed to passing through our lands, I'm sure we can take advantage of their considerable skills as mercenaries."
+ steppe_raiders_path_2b:0 "Counter-Raids"
+ steppe_raiders_path_2b_desc:0 "Life along the steppe's edge can be vicious.  Active counter raiding will enable us to protect our settlements by detering other opponents."
+ steppe_raiders_path_2a:0 "Steppe Tactics"
+ steppe_raiders_path_2a_desc:0 "The horsemen of the steppes are undisputed masters of mounted warfare, by adapting their tactics we can improves our armies."
+ steppe_raiders_path_3:0 "Terror Tactics"
+ steppe_raiders_path_3_desc:0 "The steppe is a brutal place.  By embracing the terror of these raiders, our enemies shall yield faster."
+ 
+ #Caravan Guards
+ caravan_guards_path_1:0 "Caravan Guards"
+ caravan_guards_path_1_desc:0 "Rich merchants employ soldiers to guard their wares and valuables as they move along the road.  By offering our soldiers to them for a price we can help defray our expenses."
+ caravan_guards_path_2:0 "Constant Skirmishing"
+ caravan_guards_path_2_desc:0 "Constant raids and counter-raids along the steppe's edge mean there is no shortage of experienced warriors for us to draw on."
+ caravan_guards_path_3:0 "Promises of Wealth"
+ caravan_guards_path_3_desc:0 "Promising rich salaries to guards and mercenaries along the Silk Road will cause them to flock to our banner!"
+ 
+ #Trade Routes
+ trade_routes_path_1:0 "Exchange of Ideas"
+ trade_routes_path_1_desc:0 "Wealth is not the only commodity to travel along the Silk Road.  Knowledge is just a valuable."
+ trade_routes_path_2:0 "Fortified Trade Posts"
+ trade_routes_path_2_desc:0 "By establishing fortified trading posts we can both bolster our defenses and attract the wealth of traveling merchants."
+ trade_routes_path_3:0 "Vibrant Bazaars"
+ trade_routes_path_3_desc:0 "The abundance of rich goods moving through our lands boosts our economy and promotes rapid growth."
+ trade_routes_path_4:0 "Tolerance"
+ trade_routes_path_4_desc:0 "The great wealth that flows relies on one key value, tolerance."
+ 
+ #Steppe Influence
+ steppe_raiders_path_3b:0 "Plateau Adaptation"
+ steppe_raiders_path_3b_desc:0 "The lack of plains can make the military usage of cavalry difficult on the plateau, but we've adapted to make the best of our cavalry even here."
+ 
+ #####################
+ # Tibetan Influence #
+ #####################
+ 
+ #Tibetan Influence
+ mauryan_tibetan_enable:0 "Embrace Indo-Tibetan Influence"
+ mauryan_tibetan_enable_desc:0 ""
+ 

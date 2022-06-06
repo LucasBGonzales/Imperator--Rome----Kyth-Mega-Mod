@@ -82,6 +82,10 @@ is_anatolian_culture_group_trigger = {
 	this.culture.culture_group = culture_group:anatolian
 }
 
+is_tibetan_culture_group_trigger = {
+	this.culture.culture_group = culture_group:tibetan
+}
+
 is_steppe_culture_group_trigger = {
 	OR = {
 		this.culture.culture_group = culture_group:bactrian
