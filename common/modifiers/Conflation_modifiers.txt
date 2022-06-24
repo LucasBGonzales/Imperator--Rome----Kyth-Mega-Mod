@@ -3,5 +3,5 @@ culture_conflated_recently = {
 } 
 
 promoted_administrators_in_subcultures = {
-	culture_citizen_output = -0.5
+	culture_citizen_output = 0.05
 }

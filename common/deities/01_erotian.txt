@@ -1,0 +1,163 @@
+﻿### General Deity Checks ###
+
+deity_erota = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = erotian_pantheon
+			}
+			deity:omen_erota = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { monthly_corruption = deity_monthly_corruption_svalue }
+	omen = { global_unrest = -1 } #Bonus from Omen
+	religion = erotian_pantheon
+	deity_category = fertility #This Deity uses a War slot.
+	
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+}
+
+deity_limyrn = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = erotian_pantheon
+			}
+			deity:omen_limyrn = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { diplomatic_reputation = deity_diplomatic_relations_svalue }
+	omen = { naval_morale_modifier = deity_diplomatic_reputation_svalue } #Bonus from Omen
+	religion = erotian_pantheon
+	deity_category = war #This Deity uses a War slot.
+	
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_myrana = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = erotian_pantheon
+			}
+			deity:omen_myrana = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { discipline = deity_discipline_svalue } #Bonus from Omen
+	religion = erotian_pantheon
+	deity_category = war #This Deity uses a War slot.
+	
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_dythos = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = erotian_pantheon
+			}
+			deity:omen_dythos = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_start_experience = deity_global_start_experience_svalue }
+	omen = { land_morale = deity_land_morale_modifier_svalue } #Bonus from Omen
+	religion = erotian_pantheon
+	deity_category = war #This Deity uses a War slot.
+	
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_vitcya = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = erotian_pantheon
+			}
+			deity:omen_vitcya = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
+	omen = { global_population_growth = deity_global_population_growth_svalue } #Bonus from Omen
+	religion = erotian_pantheon
+	deity_category = war #This Deity uses a War slot.
+	
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_neros = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = erotian_pantheon
+			}
+			deity:omen_neros = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { naval_morale = deity_naval_morale_modifier_svalue }
+	omen = { global_commerce_modifier = deity_global_commerce_modifier_svalue } #Bonus from Omen
+	religion = erotian_pantheon
+	deity_category = war #This Deity uses a War slot.
+	
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_nisa = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = erotian_pantheon
+			}
+			deity:omen_nisa = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_monthly_civilization = deity_global_monthly_civilization_svalue }
+	omen = { discipline = deity_discipline_svalue } #Bonus from Omen
+	religion = erotian_pantheon
+	deity_category = war #This Deity uses a War slot.
+	
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}

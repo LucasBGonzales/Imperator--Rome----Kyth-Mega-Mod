@@ -24,6 +24,13 @@
 			}
 			country_culture_group = thrace_group
 		}
+		trigger_else_if = {
+			limit = { heritage = byzantine_heritage }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			heritage = byzantine_heritage
+		}
 		trigger_else = {
 			custom_tooltip = {
 				text = "tradition_unlock_requirement_cultural_decision"

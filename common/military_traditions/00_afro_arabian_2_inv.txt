@@ -46,10 +46,9 @@
 	}
 
 	arabian_path_1 = { ###
-		enable_ability = naval_raiding
 		modifier = {
-			trireme_offensive = 0.05
-			enslavement_efficiency = 0.1
+			global_population_growth = 0.15
+			global_export_commerce_modifier = 0.2
 		}
 		icon = latin_tribal_path_6
 		requires = { }
@@ -73,6 +72,7 @@
 	}
 
 	arabian_path_4 = { ###
+		enable_ability = naval_raiding
 		modifier = { 
 			ship_cost = -0.15
 			global_state_trade_routes = 0.15

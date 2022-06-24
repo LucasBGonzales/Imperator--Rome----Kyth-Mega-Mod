@@ -13,6 +13,16 @@ levy_general_greek = {	#Poleis with Hoplites
 	heavy_infantry = 0.4
 }
 
+levy_propontic = {
+	default = no
+
+	archers = 0.2
+	light_infantry = 0.2
+	light_cavalry = 0.2
+	heavy_infantry = 0.2
+	heavy_cavalry = 0.2
+}
+
 levy_aegean = {
 	default = no
 	

@@ -2,7 +2,7 @@ culture_decisions = {	#Includes integration trads but also tweaks to vanilla
 	#Integrated Culture Rights and Privileges:
 	promote_administrators_in_subcultures = {
 		potential = {
-			NOT = { root.culture.culture_group = scope:target_culture.culture.culture_group }
+			#NOT = { root.culture.culture_group = scope:target_culture.culture.culture_group }
 			scope:target_culture = {
 				OR = {
 					has_pop_type_right = citizen
