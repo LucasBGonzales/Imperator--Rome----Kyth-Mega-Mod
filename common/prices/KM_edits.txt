@@ -1,5 +1,5 @@
 ﻿raid = {
-	aggressive_expansion = 1
+	aggressive_expansion = 0.5
 }
 
 price_found_city = {
@@ -18,12 +18,11 @@ enact_holy_site = {
 }
 
 change_pantheon = {
-	stability = 5
-	political_influence = 10
+	political_influence = 15
 }
 
 fabricate_claim = {
-	gold = 75
+	gold = 25
 }
 
 change_diplomatic_stance = {
@@ -31,7 +30,31 @@ change_diplomatic_stance = {
 }
 
 war_no_cb = {
-	political_influence = 10
-	aggressive_expansion = 2.5
-	war_exhaustion = 2.5
+	political_influence = 15
+	aggressive_expansion = 2
+	war_exhaustion = 2
+}
+
+war_breaking_truce = {
+	stability = 35
+	aggressive_expansion = 20
+	war_exhaustion = 4
+}
+
+#improve_relation = {
+#	political_influence = 15
+#}
+
+subject_pays_feudatory = {
+	scaled_manpower = 0.1 
+	scaled_gold = 0.1
+}
+
+subject_pays_vassal = {
+	scaled_manpower = 0.15
+	scaled_gold = 0.05
+}
+
+subject_colony_pays = {
+	scaled_gold = 0.2
 }

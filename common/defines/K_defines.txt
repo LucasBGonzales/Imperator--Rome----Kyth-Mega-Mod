@@ -47,6 +47,7 @@ NCombat = {
 NDiplomacy = {
 	DEFAULT_WARGOAL_BATTLESCORE_BONUS = 8	# 3		# Battle score bonus from winning battles 
 	WARSCORE_MAX_FROM_BATTLES = 50	# 40			# maximum amount to get from a battles .
+	AE_IMPACT_ON_OPINION = -2 #-4
 }
 
 NAI = {

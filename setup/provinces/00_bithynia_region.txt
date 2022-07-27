@@ -938,7 +938,7 @@
 	port_building=1
 	province_rank="city"
 	religion="roman_pantheon"
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="cloth"
 	nobles=
 	{
@@ -1014,7 +1014,7 @@
 	culture="bithynian"
 	province_rank="settlement"
 	religion="roman_pantheon"
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="vegetables"
 	citizen=
 	{
